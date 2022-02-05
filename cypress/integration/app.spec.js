@@ -76,7 +76,7 @@ describe('TodoMVC', function () {
     })
   })
 
-  context('New Todo', function () {
+  context('New Todos', function () {
     // New commands used here:
     // https://on.cypress.io/type
     // https://on.cypress.io/eq
